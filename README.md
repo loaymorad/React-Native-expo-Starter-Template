@@ -6,7 +6,7 @@ after user login or register the user enter the main app that has 2 tabs Home an
 ### How To Install
 1. Clone
 ```
-git clone <>
+git clone https://github.com/loaymorad/React-Native-expo-Starter-Template.git
 ```
 
 2. Run
